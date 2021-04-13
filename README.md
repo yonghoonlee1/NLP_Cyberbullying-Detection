@@ -8,7 +8,7 @@ Deep Learning을 활용한 사이버폭력 탐지에 대한 연구를 진행
   - Twitter sexism : cyberbully - 3021, Non-Cyberbully - 10,752
 
 * 모델 : Glove + CNN-BiLSTM
-  - Glove : Word Embedding 기법 , 50차원의 벡터 활용
+  - Glove(Word Embedding) : 50차원의 벡터 활용
   - CNN-BiLSTM : Convolutional Neural Networks + Bidirectional LSTM
 
 * Preprocessing 
