@@ -1,6 +1,6 @@
 # Cyberbullying-Detection
 
-Deep Learning을 활용한 사이버폭력 탐지에 대한 연구를 진행
+Deep Learning을 활용한 사이버폭력 탐지 연구를 진행
 
 * Dataset (Cyberbullying)
   - Formspring : cyberbully - 776, Non-Cyberbully - 11,997
